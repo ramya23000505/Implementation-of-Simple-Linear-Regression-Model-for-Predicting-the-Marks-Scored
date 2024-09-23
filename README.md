@@ -23,7 +23,7 @@ To write a program to predict the marks scored by a student using the simple lin
 
 7.Compare the graphs and hence we obtained the linear regression for the given datas.
 
-8.Stop te program.
+8.Stop the program.
 
 
 ## Program:
