@@ -96,19 +96,19 @@ print('RMSE = ',rmse)
 ![Screenshot 2024-08-22 193427](https://github.com/user-attachments/assets/ca71e6fc-56b6-47dc-ba8a-33b6054c9f33)
 ### Tail:
 ![Screenshot 2024-08-22 193455](https://github.com/user-attachments/assets/881d60d0-641f-4be1-9969-3fb8523f6005)
-### Array value of X:
-![Screenshot 2024-08-22 193545](https://github.com/user-attachments/assets/cc140d35-0789-4e0d-b986-6a3eb108cdcd)
-### Array value of Y:
-![Screenshot 2024-08-22 193609](https://github.com/user-attachments/assets/1a3a40ab-53ee-4940-aa51-850003dd1afe)
-### Y prediction:
-![Screenshot 2024-08-22 193656](https://github.com/user-attachments/assets/19da4a15-7d18-4fff-a397-8d790548dd68)
-### Training set graph:
-![Screenshot 2024-08-22 193715](https://github.com/user-attachments/assets/5b22f0df-500a-4ce9-985d-dcb3671e7fdd)
-### Testing set graph:
-![Screenshot 2024-08-22 194103](https://github.com/user-attachments/assets/84194f3f-a252-4526-9612-09bbfa9358ab)
-### Values of MSE, MAE and RMSE:
-![Screenshot 2024-08-22 194247](https://github.com/user-attachments/assets/a5152002-257b-4945-b08c-b12710168144)
 
+![Screenshot 2024-08-22 193545](https://github.com/user-attachments/assets/cc140d35-0789-4e0d-b986-6a3eb108cdcd)
+### Array value of X:
+![Screenshot 2024-08-22 193609](https://github.com/user-attachments/assets/1a3a40ab-53ee-4940-aa51-850003dd1afe)
+### Array value of Y:
+![Screenshot 2024-08-22 193656](https://github.com/user-attachments/assets/19da4a15-7d18-4fff-a397-8d790548dd68)
+### Y prediction:
+![Screenshot 2024-08-22 193715](https://github.com/user-attachments/assets/5b22f0df-500a-4ce9-985d-dcb3671e7fdd)
+### Training set graph:
+![Screenshot 2024-08-22 194103](https://github.com/user-attachments/assets/84194f3f-a252-4526-9612-09bbfa9358ab)
+### Testing set graph:
+![Screenshot 2024-08-22 194247](https://github.com/user-attachments/assets/a5152002-257b-4945-b08c-b12710168144)
+### Values of MSE, MAE and RMSE:
 ![Screenshot 2024-08-22 194526](https://github.com/user-attachments/assets/0b54977f-e3b0-41c7-84bd-902d1550c303)
 
 
